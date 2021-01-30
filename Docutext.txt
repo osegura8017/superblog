@@ -6,10 +6,4 @@ y eso lo hace especial :33
 
 Excelente..
 
-<<<<<<< HEAD
-vamos con unos masss
-=======
-vamos con unos masss
-
-hola
->>>>>>> cabecera
+cambnios para probar REBASE
